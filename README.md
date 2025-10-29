@@ -39,7 +39,7 @@ This PDF includes:
 ---
 
 ## 👨‍💻 Author
-**[Your Name]**  
+**Nandyala Jashwanth Reddy**  
 Cyber Security Intern – ShadowFox  
-📍 [Your University Name]  
-🔗 [LinkedIn Profile URL]
+📍 SR University  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/nandyala-jashwanth-reddy-49b4552bb/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLTfcx%2BTdQnqb73uzUCQzCA%3D%3D)
