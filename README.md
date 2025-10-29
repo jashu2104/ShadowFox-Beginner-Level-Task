@@ -15,7 +15,7 @@ This repository contains my **Beginner Level Cyber Security Internship Tasks** c
 ---
 
 ## 📄 Detailed Report
-📎 [Beginner_Level_Report_Basic_Cyber_Security.pdf](./Beginner_Level_Report_Basic_Cyber_Security.pdf)
+📎 [Beginner_Level_Report_Basic_Cyber_Security.pdf](./ShadowFox-Beginerlevel.pdf)
 
 This PDF includes:
 - Objective of each task  
